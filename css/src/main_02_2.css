@@ -499,7 +499,7 @@ div#home2 div.cover div.cover_img {
 div#home3 div.cover div.cover_img {
     height:100%;
     display: block;
-    background-image:url("../../img/project_01_skiEvent/ski_image_03.jpg");
+    background-image:url("../../img/main/ashley_capture.png");
     background-repeat:no-repeat;
     background-size:cover;
     background-position:top;
@@ -740,7 +740,7 @@ div#home3 div.text_box a {
     div#home3 div.cover div.cover_img {
         height:100%;
         display: block;
-        background-image:url("../../img/project_01_skiEvent/ski_image_03.jpg");
+        background-image:url("../../img/main/ashley_capture.png");
     background-repeat:no-repeat;
     background-size:cover;
     background-position:top;
@@ -838,7 +838,7 @@ div#home3 div.text_box a {
     div#home3 div.cover div.cover_img {
         height:100%;
         max-width: 38vw;
-        background-image:url("../../img/project_01_skiEvent/ski_image_03.jpg");
+        background-image:url("../../img/main/ashley_capture.png");
         background-repeat:no-repeat;
         background-size:cover;
         background-position:top;
