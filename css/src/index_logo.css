@@ -458,7 +458,7 @@ body {
   }
 }
 #mainGoBtn{width:170px; height:40px; background-color:#333; color:#fff; font-weight: bold; padding:0.5rem; box-sizing: border-box; position:absolute; top:50%; left:50%; margin-left:-75px; margin-top:150px;}
-#mainGoBtn>a{width:100%; height:100%; background-color:inherit; color:#fff; font-weight: bold; text-align: center; line-height: 24px; text-transform: uppercase;}
+#mainGoBtn>a{display:block; width:100%; height:100%; background-color:inherit; color:#fff; font-weight: bold; text-align: center; line-height: 24px; text-transform: uppercase;}
 #mainGoBtn>a>i{width:auto; height:auto; color:#fff; font-weight: bold; float:right; line-height: 24px;}
 
 
