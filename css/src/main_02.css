@@ -45,6 +45,10 @@ table {
 }
 /*article{overflow:hidden;}*/
 
+a:focus{
+    color:#999;
+}
+
 
 *,*:before,*:after {
     box-sizing: border-box
@@ -323,13 +327,22 @@ nav>a {
     -moz-osx-font-smoothing: auto
 }
 
-.menu-button {
-    display: none;
+.menu{
+    display:block;
     width: 40px;
     height: 40px;
     top: 20px;
     left: 46px;
-    position: absolute
+    position: absolute;
+}
+
+.menu-button {
+    display: none;
+    width: 40px;
+    height: 40px;
+    top: 0;
+    left: 0;
+    position: absolute;
 }
 
 .menu-button:hover {
